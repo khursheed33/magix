@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874923257491",
+    "firebase_url": "https://webdb-25953.firebaseio.com",
+    "project_id": "webdb-25953",
+    "storage_bucket": "webdb-25953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874923257491:android:c141050b9146dfb3d3e766",
+        "android_client_info": {
+          "package_name": "com.example.magix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874923257491-vhbkfa6bsg908uc3aoadrhjml297iahb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlP5bUsB3ww3H0kV_-39TggYi58qfSw24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874923257491-vhbkfa6bsg908uc3aoadrhjml297iahb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
